@@ -2,14 +2,13 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I'm a frontend developer</h3>
 
-
+<!--
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nrths&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nrths&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nrths&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nrths&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nrths&theme=github_dark)
 
-<!--
 <h3 align="center">Languages and Tools I use and continue to learn:</h3>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
