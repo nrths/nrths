@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Elina 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I am a beginner frontend developer</h3>
+<h3 align="center">I'm a frontend developer</h3>
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nrths&theme=github_dark)
@@ -9,7 +9,8 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nrths&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nrths&theme=github_dark)
 
-<h3 align="center">🔎Languages and Tools I use and continue to learn:</h3>
+<!--
+<h3 align="center">Languages and Tools I use and continue to learn:</h3>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -38,13 +39,14 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 
-<h3 align="center">📚I am studying now:</h3>
+<h3 align="center">I am studying now:</h3>
 
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-<h3 align="center">✏️My socials:</h3>
+-->
+<h3 align="center">My socials:</h3>
 <div align="center">
 <a href="https://github.com/nrths" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="40"/></a> 
 <a href="https://t.me/pohjois" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" height="40"/></a> 
